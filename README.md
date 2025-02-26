@@ -14,10 +14,6 @@
 
 #### Projects Page
 <img src="website_images/ProjectPage.png" width="900">
-  
-
-
-:star: Star me on GitHub — it helps!
 
 ## Features 📋
 ⚡️ Fully Responsive\
